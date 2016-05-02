@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./livybookxxvii00stepgoog_0007.png"; bbox 0 0 2675 3900; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 114 123 944 245">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 114 123 944 245">
+     <span class='ocr_line' id='line_1_1' title="bbox 114 123 944 245; baseline 0.014 -38"><span class='ocrx_word' id='word_1_1' title='bbox 114 123 379 225; x_wconf 48' lang='lat' dir='ltr'><em>{ms</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 418 141 944 245; x_wconf 47' lang='grc' dir='ltr'><em>Ἠοῑέβσιοὴῆε</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 564 1772 846 1934">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 564 1772 846 1934">
+     <span class='ocr_line' id='line_1_2' title="bbox 564 1772 846 1836; baseline 0 -16"><span class='ocrx_word' id='word_1_3' title='bbox 564 1772 636 1820; x_wconf 81' lang='lat' dir='ltr'><em>First</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 651 1773 757 1820; x_wconf 73' lang='lat' dir='ltr'><em>Edr&#39;tion</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 777 1776 846 1836; x_wconf 85' lang='lat'>1890.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 599 1865 821 1934; baseline 0.009 -21"><span class='ocrx_word' id='word_1_6' title='bbox 599 1865 735 1928; x_wconf 77' lang='lat' dir='ltr'><em>Reprinted</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 753 1867 821 1934; x_wconf 81' lang='lat'>1896.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1342 3900">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1342 3900">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1342 3900; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1342 3900; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
